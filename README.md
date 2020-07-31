@@ -11,6 +11,9 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 ### 📅 This week I work on
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
