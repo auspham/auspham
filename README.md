@@ -5,11 +5,11 @@ I'm currently doing my 3rd-year Comsci @ RMIT University. This is the place wher
 - 🌱I’m currently learning AI, Statistic, OS and Unix stuff.
 - 👯 I’m looking to collaborate on Web Applications and Machine Learning projects.
 
-### 🔑Public key
+### 🔑 Public key
 
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
-### 📅This week I work on
+### 📅 This week I work on
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
