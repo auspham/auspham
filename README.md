@@ -9,12 +9,8 @@ I'm currently doing my 3rd-year Comsci @ RMIT University. This is the place wher
 
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
-### 📅 This week I work on
+### 📅 This week I have been working on
 <!--START_SECTION:waka-->
-```text
-Markdown   25 mins         █████████████████████░░░░   87.11 % 
-Other      3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 %
-```
 <!--END_SECTION:waka-->
 
 <!--
