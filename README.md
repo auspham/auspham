@@ -12,7 +12,7 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 ### 📅 This week I have been working on
 <!--START_SECTION:waka-->
 ```text
-C#       2 mins          █████████████████████████   100.00 % 
+Python   32 mins         ████████████████████████▒   97.79 % 
 ```
 <!--END_SECTION:waka-->
 
