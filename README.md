@@ -9,7 +9,8 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 ### 📅 This week I have been working on
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON     38 mins         ████████████████████████▒   96.86 % 
+Python   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 <!--END_SECTION:waka-->
 
