@@ -9,8 +9,7 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 ### 📅 This week I have been working on
 <!--START_SECTION:waka-->
 ```text
-TeX            19 mins         ██████████████████░░░░░░░   72.12 % 
-Other          7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
