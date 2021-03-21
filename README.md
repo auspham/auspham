@@ -6,7 +6,6 @@ I'm currently doing my 3rd-year Comsci @ RMIT University. This is the place wher
 
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
-### 📅 This week I have been working on
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
