@@ -7,8 +7,6 @@ I'm currently doing my 3rd-year Comsci @ RMIT University. This is the place wher
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2026%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -31,7 +29,7 @@ Unknown OS               4 hrs 39 mins       █████░░░░░░�
 ```
 
 
- Last Updated on 23/01/2022 00:42:14 UTC
+ Last Updated on 24/01/2022 00:42:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
