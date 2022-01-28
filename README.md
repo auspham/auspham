@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently doing my 3rd-year Comsci @ RMIT University. This is the place where I build stuff 👀. 
+I'm a graduate @ RMIT University. This is the place where I build stuff 👀. 
+
+- If you're looking for a whiteboard-like compiler to practice coding interview, check out: https://code.auspham.dev/
+- If you're RMIT student, check out: https://github.com/rockmanvnx6/SeptNotes
 
 ### 🔑 Public key
 
