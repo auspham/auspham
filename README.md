@@ -10,8 +10,6 @@ I'm a graduate @ RMIT University. This is the place where I build stuff 👀.
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2023%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -33,7 +31,7 @@ Linux                    3 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 16/02/2022 00:47:06 UTC
+ Last Updated on 17/02/2022 00:41:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
