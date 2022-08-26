@@ -10,7 +10,7 @@ I'm a graduate @ RMIT University. This is the place where I build stuff 👀.
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,18 +18,18 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/08/2022 00:13:53 UTC
+ Last Updated on 26/08/2022 00:14:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
