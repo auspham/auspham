@@ -19,20 +19,18 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   99.91% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/12/2022 00:11:55 UTC
+ Last Updated on 26/12/2022 00:11:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
