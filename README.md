@@ -11,7 +11,7 @@ I'm a graduate @ RMIT University. This is the place where I build stuff 👀.
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,21 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JavaScript               20 mins             █████████████████████░░░░   82.86 % 
-CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JavaScript               31 mins             █████████████████░░░░░░░░   66.60 % 
+YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/08/2023 00:09:35 UTC
+ Last Updated on 15/08/2023 00:09:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
