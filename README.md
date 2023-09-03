@@ -3,7 +3,7 @@
 I'm a graduate @ RMIT University. This is the place where I build stuff 👀. 
 
 - If you're looking for a whiteboard-like compiler to practice coding interview, check out: https://code.auspham.dev/
-- If you're RMIT student, check out: https://notes.auspham.dev/
+- SWE note: https://swe.auspham.dev/
 - Big O complexity cheatsheet: https://auspham.dev/AAComplexity/
 
 ### 🔑 Public key
