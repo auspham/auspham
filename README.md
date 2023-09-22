@@ -19,7 +19,8 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+TypeScript               1 min               ███████████████████████░░   93.70 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
 VS Code                  1 min               █████████████████████████   100.00 % 
@@ -29,7 +30,7 @@ Mac                      1 min               ███████████�
 ```
 
 
- Last Updated on 21/09/2023 00:09:58 UTC
+ Last Updated on 22/09/2023 00:09:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
