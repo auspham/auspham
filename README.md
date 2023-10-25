@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a graduate @ RMIT University. This is the place where I build stuff 👀. 
+This is the place where I build stuff 👀. 
 
 - If you're looking for a whiteboard-like compiler to practice coding interview, check out: https://code.auspham.dev/
 - SWE note: https://swe.auspham.dev/
