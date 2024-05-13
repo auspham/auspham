@@ -12,7 +12,7 @@ This is the place where I build stuff 👀.
 In case you ask, my public key is available [here](https://public.auspham.dev/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,20 +20,20 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Python                   5 hrs 15 mins       █████████████████████████   99.80 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   5 hrs 39 mins       █████████████████████████   99.81 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   99.80 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   99.81 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2024 00:12:06 UTC
+ Last Updated on 13/05/2024 00:11:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
