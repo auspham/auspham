@@ -20,18 +20,17 @@ In case you ask, my public key is available [here](https://public.auspham.dev/).
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JavaScript               7 mins              █████████████░░░░░░░░░░░░   51.62 % 
-JSON                     7 mins              ████████████░░░░░░░░░░░░░   48.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2024 00:11:59 UTC
+ Last Updated on 31/07/2024 00:10:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
