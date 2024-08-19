@@ -15,18 +15,17 @@ This is the place where I build stuff 👀.
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-YAML                     18 mins             ████████████████████████░   96.51 % 
-Ruby                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/08/2024 00:13:12 UTC
+ Last Updated on 19/08/2024 00:12:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
