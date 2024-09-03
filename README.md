@@ -15,17 +15,17 @@ This is the place where I build stuff 👀.
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/09/2024 00:13:10 UTC
+ Last Updated on 03/09/2024 00:12:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
