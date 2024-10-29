@@ -7,7 +7,7 @@ This is the place where I build stuff 👀.
 - SWE note: https://swe.auspham.dev/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,17 +15,17 @@ This is the place where I build stuff 👀.
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+conf                     12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2024 00:14:38 UTC
+ Last Updated on 29/10/2024 00:14:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
