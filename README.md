@@ -9,23 +9,8 @@ This is the place where I build stuff 👀.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%201%20min-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 01/12/2024 00:17:57 UTC
+ Last Updated on 02/12/2024 00:15:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
