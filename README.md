@@ -6,3 +6,8 @@ This is the place where I build stuff 👀.
 - Pathfinding visualiser: https://pathfinding.auspham.dev/
 - SWE note: https://swe.auspham.dev/
 
+Public key: https://public.auspham.dev/
+
+```bash
+curl -L public.auspham.dev
+```
